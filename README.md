@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AM1RJAMAL1
+- 👀 I’m interested in games
+- 🌱 I’m currently learning python & pygame
+- 📫 How to reach me amirjamali.1225@gmail.com
